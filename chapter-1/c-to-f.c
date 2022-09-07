@@ -3,7 +3,7 @@
 /*
  * print Fahrenheit-Celsuis table for F = 0, 20, ..., 300
  */
-void main()
+main()
 {
     int fahr, celsius;
     int lower, upper, step;
@@ -20,5 +20,5 @@ void main()
         fahr = fahr + step;
     }
 
-    return
+    return 0;
 }
