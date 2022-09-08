@@ -11,6 +11,7 @@ main()
     step = 10;   /* Step size */
 
     fahr = lower;
+    printf("Fahrenheit to Celsius conversion table\n");
     while (fahr <= upper)
     {
         celsius = (5.0 / 9.0) * (fahr - 32.0);
