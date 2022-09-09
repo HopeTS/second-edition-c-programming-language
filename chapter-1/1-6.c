@@ -6,7 +6,7 @@ main()
 
     while (c != EOF)
     {
-        c = (getchar() != EOF)
+        c = (getchar() != EOF);
     }
 
     /*     c = getchar();
