@@ -11,6 +11,11 @@ main()
     {
         x = getchar();
         putchar(x);
+
+        if (x == 1)
+        {
+            tru = false;
+        }
     }
 
     printf("no longer taking characters");
