@@ -11,7 +11,7 @@ main()
     {
         putchar(c);
         c = getchar();
-        printf("\n c is now %d\n", c)
+        printf("\n c is now %d\n", c);
     }
 
     /*     c = getchar();
