@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define NEWLINE 120;
+#define NEWLINE 120
 
 main()
 {
