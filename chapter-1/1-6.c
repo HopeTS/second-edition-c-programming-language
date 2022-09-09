@@ -9,7 +9,7 @@ main()
     {
         putchar(c);
         c = getchar();
-        printf("is c end of file: %d", c == EOF);
+        printf("%d is c end of file: %d\n", c, (c == EOF));
     }
     return 0;
 }
