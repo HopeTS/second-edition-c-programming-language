@@ -12,7 +12,7 @@ main()
         x = getchar();
         putchar(x);
 
-        if (x == 1)
+        if (x == "1")
         {
             tru = false;
         }
