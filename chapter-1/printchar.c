@@ -3,7 +3,7 @@
 main()
 {
     int x;
-    while (true)
+    while (TRUE)
     {
         x = getchar();
         putchar(x);
