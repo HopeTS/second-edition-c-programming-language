@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* Print the value of each input character, and whether or not it is equal to EOF (end of file) */
 main()
 {
     int c;
