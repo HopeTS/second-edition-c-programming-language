@@ -5,7 +5,7 @@ main()
     int c;
 
     c = getchar();
-    putchar();
+    putchar(c);
     printf("%d <- this is the print statement");
     return 0;
 }
