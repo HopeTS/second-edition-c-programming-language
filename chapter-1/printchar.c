@@ -2,9 +2,8 @@
 
 main()
 {
-    char x;
-    char terminate = "z";
-    while (x != terminate)
+    int x;
+    while (true)
     {
         x = getchar();
         putchar(x);
