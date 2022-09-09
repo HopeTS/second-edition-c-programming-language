@@ -4,6 +4,8 @@ main()
 {
     int c;
 
+    printf("%d this is EOF", EOF);
+
     c = getchar();
     while (c != EOF)
     {
