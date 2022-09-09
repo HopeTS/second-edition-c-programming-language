@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#define NEWLINE = 120;
+
 main()
 {
     int c, nl;
@@ -7,7 +9,7 @@ main()
     nl = 0;
     while ((c = getchar()) != EOF)
     {
-        if (c == "\n")
+        if (c == NEWLINE)
         {
             ++nl;
         }
