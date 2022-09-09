@@ -16,5 +16,5 @@ version1()
 
 main()
 {
-    version1()
+    version1();
 }
