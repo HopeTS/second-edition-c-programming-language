@@ -14,7 +14,17 @@ version1()
     printf("%ld\n", nc);
 }
 
+/* version 2 of count characters function */
+version2()
+{
+    double nc;
+
+    for (nc = 0; getchar() != EOF; ++nc)
+    {
+        printf("%.0f\n", nc);
+    }
+}
+
 main()
 {
-    version1();
 }
