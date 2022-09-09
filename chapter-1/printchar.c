@@ -10,4 +10,5 @@ main()
     }
 
     printf("no longer taking characters");
+    return 0;
 }
