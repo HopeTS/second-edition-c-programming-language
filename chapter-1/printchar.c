@@ -3,7 +3,9 @@
 main()
 {
     int x;
-    bool tru = true;
+    bool tru;
+
+    tru = true;
     while (tru == true)
     {
         x = getchar();
