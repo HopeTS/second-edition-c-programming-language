@@ -26,5 +26,5 @@ main()
         }
     }
 
-    printf("%d\n---\nThere are %d blanks, %d tabs and %d newlines in this input\n", c, blanks, tabs, newlines);
+    printf("There are %d blanks, %d tabs and %d newlines in this input\n", blanks, tabs, newlines);
 }
