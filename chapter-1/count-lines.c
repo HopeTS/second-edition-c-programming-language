@@ -13,5 +13,5 @@ main()
         }
     }
 
-    printf("%d lines\n", nl)
+    printf("%d lines\n", nl);
 }
