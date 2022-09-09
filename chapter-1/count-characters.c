@@ -11,7 +11,7 @@ version1()
         ++nc;
     }
 
-    printf("%1d\n", nc);
+    printf("%ld\n", nc);
 }
 
 main()
