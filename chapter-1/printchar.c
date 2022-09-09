@@ -3,7 +3,8 @@
 main()
 {
     char x;
-    while (x != "z")
+    char terminate = "z";
+    while (x != terminate)
     {
         x = getchar();
         putchar(x);
