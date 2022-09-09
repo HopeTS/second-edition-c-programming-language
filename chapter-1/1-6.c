@@ -6,6 +6,6 @@ main()
 
     c = getchar();
     putchar(c);
-    printf("%d <- this is the print statement");
+    printf("%d <- this is the print statement", c);
     return 0;
 }
