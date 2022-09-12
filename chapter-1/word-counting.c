@@ -35,5 +35,5 @@ main()
         }
     }
 
-    printf("Line count: %d | Word count: %d | Character count: %d", nl, nw, nc);
+    printf("Line count: %d | Word count: %d | Character count: %d\t", nl, nw, nc);
 }
